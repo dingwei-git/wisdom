@@ -1,7 +1,7 @@
 {
   "name": "my-vue",
   "version": "1.0.0",
-  "description": "test",
+  "description": "A Vue.js project",
   "author": "834851969@qq.com <19900718dingwei>",
   "private": true,
   "scripts": {
@@ -14,6 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "element-ui": "^2.14.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
